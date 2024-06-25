@@ -1,0 +1,41 @@
+body{
+    font-family: fantasy;
+    background-color: rgb(175, 171, 171);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    
+}
+/**nav**/
+.nav{
+    background-color: #48e;
+    margin:;
+    padding: 0;
+    
+}
+.nav__ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+.nav__li{
+    margin: 1rem;
+}
+.nav__a{
+    color: #0009;
+    text-decoration: none;
+    background-color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+
+}
+.imagen{
+    margin: auto;
+    border-radius: 50%;
+    
+    border: 3px solid #fff;
+    
+}
